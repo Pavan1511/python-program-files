@@ -1,6 +1,6 @@
 #method 
-#1]islower
-#2]isupper
+#1]islower-this method returns True if the character is a lowercase letter otherwise it will return False
+#2]isupper-this method returns True if the character is a uppercase letter otherwise it will return False
 #3]upper()- lower to upper case
 #4]lower()- upper to lower case
 #5]isalpha()- if ch is either lower upper==> true otherwise==>false return true when char is alphabet
