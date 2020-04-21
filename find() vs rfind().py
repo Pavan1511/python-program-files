@@ -3,7 +3,7 @@ def check():
 	data="abc for tech abc tech for abc abc"
         # a b c   f o r   t  e c h   a b c   t e c h   f o r   a b c   a b c"
         # 0 1 2 3 4 5 6 7 8  9 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 3 3 3
-        #			           0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2
+        #		       0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2
 	#find()-->abc
 	print(data.find('tech'))#8 
 	print(data.find('spider'))#-1 since spider is not there in data by default it return -1 
