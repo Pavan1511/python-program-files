@@ -1,6 +1,6 @@
 #method 
-#1]islower-this method returns True if the character is a lowercase letter otherwise it will return False
-#2]isupper-this method returns True if the character is a uppercase letter otherwise it will return False
+#1]islower
+#2]isupper
 #3]upper()- lower to upper case
 #4]lower()- upper to lower case
 #5]isalpha()- if ch is either lower upper==> true otherwise==>false return true when char is alphabet
@@ -44,3 +44,7 @@
      9]swap lst[i] with lst[j] and lst[j]with lst[i]
      10]convert from lst[i]
      '''
+#16]find():
+#17]
+#18]index():this method will return lowest index value of a charater or a substring
+#  *)it wil finds character or substring in string 
